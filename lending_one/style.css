@@ -142,6 +142,7 @@ a {
 .header_text h1 {
 	color: #FFFFFF;
 	font-size: 120px;
+	padding: 0px 5px 0px 5px;
 	margin: 0;
 }
 
@@ -779,8 +780,13 @@ input[type=submit]:hover {
 
 	.header_text h1 {
 		color: #FFFFFF;
-		font-size: 60px;
+		font-size: 55px;
+		padding: 0px 5px 0px 5px;
 		margin: 0;
+	}
+	
+	.header_text p {
+		padding: 0px 5px 0px 5px;
 	}
 
 		.block_one, .block_two {
