@@ -829,8 +829,9 @@ input[type=submit]:hover {
 	}
 	
 	.inner_block_6_twoblocks img {
-		max-width: 150px;
-		max-height: 300px;
+		max-width: 100%;
+		width: 200px;
+		height: 370px;
 	}
 
 	.sixth_text {
