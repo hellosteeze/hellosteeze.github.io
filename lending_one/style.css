@@ -829,7 +829,7 @@ input[type=submit]:hover {
 	}
 	
 	.inner_block_6_twoblocks img {
-		width: 100px;
+		max-width: 100px;
 	}
 
 	.sixth_text {
