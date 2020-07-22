@@ -827,6 +827,10 @@ input[type=submit]:hover {
 	.block_6_twoblocks {
 		width: 100%;
 	}
+	
+	.inner_block_6_twoblocks img {
+	min-width: 150px;
+	}
 
 	.sixth_text {
 		padding: 30px;
