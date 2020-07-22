@@ -830,6 +830,7 @@ input[type=submit]:hover {
 	
 	.inner_block_6_twoblocks img {
 		max-width: 170px;
+		max-height: 300px;
 	}
 
 	.sixth_text {
