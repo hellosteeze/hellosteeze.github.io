@@ -448,16 +448,13 @@ a {
 }
 
 .inner_block_6_twoblocks img {
-	/*max-width: 80%;*/
-	min-width: 450px;
+	min-width: 230px;
 	padding-top: 60px;
 	margin: 0 auto;
-
 }
 
 .sixth_text {
 	max-width: 400px;
-	/*width: 70%;*/
 	margin: 0 auto;
 }
 
@@ -471,21 +468,21 @@ a {
 }
 
 p.one {
-	width: 45%;
+	width: 180px;
 	background: #10749F;
 	color: #FFFFFF;
 	margin-top: 15px;
 	padding-left: 10px;
 }
 p.two {
-	width: 50%;
+	width: 200px;
 	background: #10749F;
 	color: #FFFFFF;
 	margin-top: 15px;
 	padding-left: 10px;
 }
 p.three {
-	width: 55%;
+	width: 220px;
 	background: #10749F;
 	color: #FFFFFF;
 	margin-top: 15px;
@@ -749,15 +746,13 @@ input[type=submit]:hover {
 
 	.header__menu {
 		position: fixed;
-		top: -100%;
+		top: -120%;
 		left: 0;
 		width: 100%;
 		height: 100%;
 		overflow: auto;
-		/*background-color: #676767;*/
 		background: rgba(0, 0, 0, 0.8);
 		transition: all 0.4s ease 0s;
-		padding: 60px 0 0 0;
 	}
 
 	.header__menu.active {
@@ -766,6 +761,7 @@ input[type=submit]:hover {
 
 	.header__list {
 		display: block;
+		margin-top: 80px;
 	}
 
 	.header__list li {
@@ -828,26 +824,12 @@ input[type=submit]:hover {
 		display: block;
 	}
 
-	.inner_block_6_twoblocks img {
-		min-width: 250px;
-	}
-
 	.block_6_twoblocks {
 		width: 100%;
 	}
 
 	.sixth_text {
 		padding: 30px;
-	}
-
-	p.one {
-		width: 60%;
-	}
-	p.two {
-		width: 65%;
-	}
-	p.three {
-		width: 70%;
 	}
 
 	.form {
