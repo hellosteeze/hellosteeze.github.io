@@ -829,7 +829,8 @@ input[type=submit]:hover {
 	}
 	
 	.inner_block_6_twoblocks img {
-	width: 170px;
+		width: 170px;
+		height: 300px;
 /* 	padding-top: 60px;
 	margin: 0 auto; */
 	}
